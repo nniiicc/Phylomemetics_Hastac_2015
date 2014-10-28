@@ -2,7 +2,7 @@
 
 In studies of online and virtual communities there is an increasing call to study the artifacts of collaboration (Orlikowski and Scott, 2007; Pollock, 2012 Rosner and Ames, 2013). These scholars point to the need to understand material aspects of organizing even when the artifacts , software, seem to have no matter (Barley and Leonardi, 2008). 
 
-So, how does one study materiality of the immaterial? Thus far, the study of materiality has been a rhetorical move that shifts attention away from physical aspects of the digital and towards concepts the software's "practical instantiation" and "significance" in collaboration. That is to say that material aspects of organizing are studied in exactly the same ways as discourse, routine, and practices - through narrative description. 
+So, how does one study materiality of the immaterial? Thus far, the study of materiality has been a rhetorical move that shifts attention away from physical aspects of the digital and towards concepts related to the software's "practical instantiation" and "significance" in collaboration. That is to say that material aspects of organizing are studied in exactly the same ways as discourse, routine, and practices - through narrative description. 
 
 This talk offers an introduction to studying the material aspects of online collaboration through a technique called *phylomemetics*. Borrowing heavily from the field of evolutionary biology, phylomemetics uses encoded charter data from digital objects to visualize their evolution as a (taxonomic?) tree. We argue that the resulting visulaizations are a new text to be read by science and technology studies - one that can be used to thicken the descriptive tendencies of those studying collaboration, and simultaneously 
 
