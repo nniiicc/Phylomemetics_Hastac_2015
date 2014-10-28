@@ -1,13 +1,16 @@
-## Phylomemetics: A materialists approach to sociomateriality 
+## A Phylomemetic Approach
 
-In studies of online and virtual communities there is an increasing call to study the artifacts of collaboration (Orlikowski and Scott, 2007; Pollock, 2012 Rosner and Ames, 2013). These scholars point to the need to understand material aspects of organizing even when the artifacts , software, seem to have no matter (Barley and Leonardi, 2008). 
+In studies of online and virtual communities there is an increasing call to study the artifacts of collaboration (Orlikowski and Scott, 2007; Pollock, 2012 Rosner and Ames, 2013). These scholars point to the need to understand material aspects of organizing even when the artifacts (e.g. software) seem to have no matter (Barley and Leonardi, 2008). 
 
-So, how does one study materiality of the immaterial? Thus far, the study of materiality has been a rhetorical move that shifts attention away from physical aspects of the digital and towards concepts related to the software's "practical instantiation" and "significance" in collaboration. That is to say that material aspects of organizing are studied in exactly the same ways as discourse, routine, and practices - through narrative description. 
+So, how does one study the materiality of the immaterial? 
 
-This talk offers an introduction to studying the material aspects of online collaboration through a technique called *phylomemetics*. Borrowing heavily from the field of evolutionary biology, phylomemetics uses encoded charter data from digital objects to visualize their evolution as a (taxonomic?) tree. We argue that the resulting visulaizations are a new text to be read by science and technology studies - one that can be used to thicken the descriptive tendencies of those studying collaboration, and simultaneously ...
+Thus far, the study of materiality has been a rhetorical move that shifts attention away from physical aspects of an artifact and towards concepts such as "practical instantiation" and "significance" of software to collaboration (Leonardi, 2011). That is to say that material aspects of organizing have been studied in exactly the same ways as discourse, routine, and practices: through narrative description. 
 
-To demnostrate this process use a set of Free / Open Source Software (F/OSS) projects - notably Debian, a distribution of the Linux operating system, as a case study. Our analysis focuses on moments of cultural evolution - when an operating system substantively changes from one generation to the next. We ask what we can discern sociologically, organizationally, and culturally from these visualizations? 
+This talk offers an introduction to the study of the material aspects of online collaboration through a technique called *phylomemetics*. Similar to (and named after) phylogenetic methods used in evolutionary biology, phylomemetic approaches can be used to create visualizations of the geneologies of cultural (in this case, digital) objects.  Generic steps in conducting a phylomemetic study include qualitavtively coding distinct characteristics of each object, and then, using phylogenetic software and statistical algorithms, visualizing the relatedness of these objects as a tree. 
 
+Phylomemetic methods have been preivously used to study the history of physical objects like cornets (Tëmkin & Eldredge, 2007), languages (cite soemthing) and even folk tales (Tehrani, 2013). Our work here focuses on digital objects, namely Debian - a distribution of the Linux operating system. We use phylomemetics to identify moments of cultural evolution - for instance, when the debian operating system substantively changed from one generation to the next. We ask what we can discern sociologically, organizationally, and culturally through this method, and from these visualizations? 
+
+We argue that the visulaizations produced through these methods are a new text to be read by science and technology studies - one that can be used to thicken the descriptive tendencies of those studying collaboration, and simultaneously clarify and identify meaningful points of "speciation" (points at which collaborative cultures diverge). 
 
 
 **End**
