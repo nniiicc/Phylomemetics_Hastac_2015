@@ -1,45 +1,27 @@
-## A Phylomemetic Approach
+## A Phylomemetic Approach to the Materiality of Organizing
 
-In studies of online and virtual communities there is an increasing call to study the artifacts of collaboration (Orlikowski and Scott, 2007; Pollock, 2012 Rosner and Ames, 2013). These scholars point to the need to understand material aspects of organizing even when the artifacts (e.g. software) seem to have no matter (Barley and Leonardi, 2008). 
+In studies of online and virtual communities, scholars are continually calling for research agenda that focuses more explicitly on the material aspects of collaboration (e.g. Orlikowski and Scott, 2007; Pollock, 2012 Rosner and Ames, 2013).Yet, few of these studies also acknowledge that digital materials (e.g. software) seem to lack matter (Barley and Leonardi, 2008). 
 
 So, how does one study the materiality of the immaterial? 
 
-Thus far, the study of materiality has been a rhetorical move that shifts attention away from physical aspects of an artifact and towards concepts such as "practical instantiation" and "significance" of software to collaboration (Leonardi, 2011). That is to say that material aspects of organizing have been studied in exactly the same ways as discourse, routine, and practices: through narrative description. 
+Thus far, the study of materiality has been a rhetorical move that shifts attention away from physical aspects of an artifact and towards concepts such as "practical instantiation" and "significance" of software (Leonardi, 2011). That is to say that material aspects of organizing have been studied in exactly the same ways as discourse, routine, and practices: through narrative description. 
 
-This talk offers an introduction to the study of the material aspects of online collaboration through a technique called *phylomemetics*. Similar to (and named after) phylogenetic methods used in evolutionary biology, phylomemetic approaches can be used to create visualizations of the geneologies of cultural (in this case, digital) objects.  Generic steps in conducting a phylomemetic study include qualitavtively coding distinct characteristics of each object, and then, using phylogenetic software and statistical algorithms, visualizing the relatedness of these objects as a tree. 
+This talk offers an introduction to the study of the material aspects of organizing through a technique called *phylomemetics*. Similar to (and named after) phylogenetic methods used in evolutionary biology, phylomemetic approaches can be used to create  geneologies of cultural objects - including digital artifacts. 
 
-Phylomemetic methods have been preivously used to study the history of physical objects like cornets (Tëmkin & Eldredge, 2007), languages (cite soemthing) and even folk tales (Tehrani, 2013). Our work here focuses on digital objects, namely Debian - a distribution of the Linux operating system. We use phylomemetics to identify moments of cultural evolution - for instance, when the debian operating system substantively changed from one generation to the next. We ask what we can discern sociologically, organizationally, and culturally through this method, and from these visualizations? 
+Phylomemetic methods have been preivously used to study the history of physical objects like cornets (Tëmkin & Eldredge, 2007), languages (cite soemthing) and even folk tales (Tehrani, 2013). Our work here focuses on a virtual organization - Debian, a distribution of the Linux open-source operation system. We use phylomemetics to identify moments of cultural evolution - for instance, when Debian substantively changed from one generation to the next. 
 
-We argue that the visulaizations produced through these methods are a new text to be read by science and technology studies - one that can be used to thicken the descriptive tendencies of those studying collaboration, and simultaneously clarify and identify meaningful points of "speciation" (points at which collaborative cultures diverge). 
+We ask what we can discern sociologically, organizationally, and culturally through this method, and from these visualizations? 
+
+Our insights can be compared to, and as we suggest, combined with ethnographic methods of inquiry. For instance, we can combine our quantification of "speciation events" through phylomemetics with "ethical moments" documented in a deep ethnography of the Debian community (Coleman, 2005). In combination these two methods - ethnography and phylomemetics - offer digital humanists and social scientists a new mode of intellectual engagement with culture from both a material and hermeneutic perspective. 
+
+We further argue that the visulaizations produced through these methods are a new text to be read by science and technology studies - one that can be used to thicken the descriptive tendencies of those studying collaboration, and simultaneously clarify and identify meaningful points of "speciation" (points at which collaborative cultures diverge). 
 
 
 **End**
 
 
-
-Removed Text: 
-
-The material aspects of a culture are central to traditional ethnographic work, from Malinowski's focus on exchange in Melanesia (1922), to Hine's virtual ethnographies in eScience (2007). Our insights can be compared to, and as we suggest, combined with ethnographic methods of inquiry. For instance, we can combine our quantification of "speciation events" through phylomemetics with "ethical moments" documented in a deep ethnography of the Debian community (Coleman, 2005). In combination these two methods - ethnography and phylomemetics - offer digital humanists and social scientists a new mode of intellectual engagement with culture from both a material and hermeneutic perspective. 
-
-
-
---- 
-
-to do: 
-
-Come up with catchy way to describe "speciation event"  - what do mean by this. It is a substantive break from the past state - how should we refer to this in describing digital culture / collaboration? 
-
-
 Coleman, E. G. (2005). Three ethical moments in Debian. Available at SSRN : http://pdf.textfiles.com/academics/ssrn-id805287.pdf
 
-Hine - http://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.2007.00341.x/full
 
-
---- 
-For future work
-
-This is an interesting passage : "The use of phylogenetic computer programs in textual analysis has not been without its critics (e.g., [27]). One of the objections often made to the approach is that it does not deal adequately with what scholars call “contamination.” This is where a scribe used more than one copy of a text when making his or her own. Broadly, contamination falls into two varieties. In one, a scribe switched from one copy to another at a particular point. In the other, the scribe used multiple copies simultaneously, to make a patchwork. Contamination has clear parallels in biology, where horizontal gene transfer can result in the incorporation into one organism's genome of a gene from distantly related organisms, or where recombination leads to a sequence that is a hybrid between two parental forms. It is still possible to use phylogenetic analyses with these sets of manuscripts. One approach is to infer trees using subsections of the text and look for individual manuscripts whose position in the tree changes according to the subsection studied [28]. In cases where a scribe switched at a reasonably well-defined point, a method developed by Maynard Smith for mapping recombination sites at the sequence level has been used very successfully for mapping the position in a text where a scribe changed copying source [28]. An alternative approach is to use phylogenetic methods such as Neighbornet or Splitstree, which allow reconstruction of phylogenetic networks. This approach may also be helpful when a scribe used multiple versions simultaneously to make his or her own copy." PlOS article on Phylomemetics. 
-
-What would it mean to have contamination in a release ?
 
 -- 
