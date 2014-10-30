@@ -6,9 +6,9 @@ So, how does one study the materiality of the immaterial?
 
 Thus far, the study of materiality has been a rhetorical move that shifts attention away from physical aspects of an artifact and towards concepts such as "practical instantiation" and "significance" of software (Leonardi, 2011). That is to say that material aspects of organizing have been studied in exactly the same ways as discourse, routine, and practice: through narrative description. 
 
-This talk offers an introduction to the study of the material aspects of organizing through a technique called *phylomemetics*. Similar to (and named after) phylogenetic methods used in evolutionary biology, phylomemetic approaches can be used to create  geneologies of cultural objects - including digital artifacts - by taking their material instantiations seriously. Phylomemetics ...  
+This talk offers an introduction to the study of the material aspects of organizing through a technique called *phylomemetics*. Similar to (and named after) phylogenetic methods used in evolutionary biology, phylomemetic approaches can be used to create  geneologies of cultural objects - including digital artifacts - by taking their material instantiations seriously. This process includes qualitavtively coding distinct characteristics (e.g. bit sequences, encoding schemas, attribute value pairs found in metadata records, etc.) of artifacts, and then, using phylogenetic software and statistical algorithms, visualizing their relatedness in a tree structure.  
 
-Phylomemetic methods have been preivously used to study the history of physical objects like cornets (Tëmkin & Eldredge, 2007), languages (Bates and Elman, 2000) and even folk tales (Tehrani, 2013). Our work here focuses on a virtual organization - Debian, a distribution of the Linux open-source operation system. We use phylomemetics to identify moments of cultural evolution - for instance, when Debian substantively changed from one generation to the next. 
+As a demonstration, we will present a case study of the materiality of a virtual organization, Debian, a distribution of the Linux open-source operation system. [Say a bit more here]  We use phylomemetics to identify moments of cultural evolution - for instance, when Debian substantively changed from one generation to the next. 
 
 We ask what we can discern sociologically, organizationally, and culturally through this method, and from these visualizations? 
 
@@ -33,3 +33,7 @@ Tëmkin, I., & Eldredge, N. (2007). Phylogenetics and material cultural evolutio
 Wiberg, M., Ishii, H., Dourish, P., Rosner, D., Vallgårda, A., Sundström, P., ... & Rolston, M. (2012, May). Material interactions: from atoms & bits to entangled practices. In CHI'12 Extended Abstracts on Human Factors in Computing Systems (pp. 1147-1150). ACM.
 
 -- 
+
+Removed but should go back in somewhere: 
+
+Phylomemetic methods have been preivously used to study the history of physical objects like cornets (Tëmkin & Eldredge, 2007), languages (Bates and Elman, 2000) and even folk tales (Tehrani, 2013). Our work
